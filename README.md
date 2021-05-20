@@ -8,3 +8,5 @@ PySpark is the Python API written in python to support Apache Spark. Apache Spar
 2. PySparkSQL: A PySpark library to apply SQL-like analysis on a huge amount of structured or semi-structured data. We can also use SQL queries with PySparkSQL.  PySparkSQL is a wrapper over the PySpark core. It introduced the DataFrame, a tabular representation of structured data that is similar to that of a table from a relational database management system.
 3. Graphframes: The GraphFrames is a purpose graph processing library that provides a set of APIs for performing graph analysis efficiently, using the PySpark core and PySparkSQL. It is optimized for fast distributed computing.
 
+### Project highlights:
+1. Data 
