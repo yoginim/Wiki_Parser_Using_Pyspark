@@ -14,4 +14,4 @@ PySpark is the Python API written in python to support Apache Spark. Apache Spar
 3. Basic queries on the constructed graph
 4. Message Aggregation - Page ranking 
 
-#### Python libraries used are: pyspark, Graphframes, OS, re
+#### Python libraries used are: pyspark, Graphframes, OS, re 
